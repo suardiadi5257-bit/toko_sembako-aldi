@@ -48,8 +48,7 @@ pubspec.yaml
 1. Clone repository:
 
 
-git clone https://github.com/username/sembako_app_hd.git
-
+git clone  https://github.com/suardiadi5257-bit/toko_sembako-aldi.git
 2. Masuk folder proyek:
 
 
