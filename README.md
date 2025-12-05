@@ -49,6 +49,7 @@ pubspec.yaml
 
 
 git clone  https://github.com/suardiadi5257-bit/toko_sembako-aldi.git
+
 2. Masuk folder proyek:
 
 
@@ -69,6 +70,7 @@ flutter run
 
 - Nama: Aldi N
 - Project: Tugas UTS Flutter
+
 A new Flutter project.
 
 ## Getting Started
